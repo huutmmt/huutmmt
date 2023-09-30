@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hey everyone, I'm <b>[Emma Ngo](https://bunhere.com)</b> <br>
+👋 Hey everyone, I'm <b>[Huu Do]([https://bunhere.com](https://www.facebook.com/huu2021/)</b> <br>
 <b>✨Fullstack Web Developer✨</b>
 - <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [fb/huudo](https://www.facebook.com/huu2021/) 
 
